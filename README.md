@@ -1,5 +1,7 @@
 # Projeto-de-Power-Business-Intelligence
 
+## Sobre o Projeto
+
 Meu primeiro dashboard com a ferramenta de Power BI.
 
  - Faturamento total de vendas.
