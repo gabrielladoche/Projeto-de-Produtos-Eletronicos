@@ -9,4 +9,6 @@ Meu primeiro dashboard com a ferramenta de Power BI.
 - Faturamento por mês.
 - Quantidade vendida por gênero.
 - Faturamento por estado.
+
+
 Muito feliz com o resultado final !!!
