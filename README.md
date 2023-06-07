@@ -2,8 +2,8 @@
 
 ## Sobre o Projeto
 
-Vimos a base de dados completa e percebemos que seria melhor realizar um tratamento
-para a criação do dashboard, e realizar algumas análises.
+Nesse projeto vou falar sobre, o tratamento que eu fiz na ferramenta de Power BI junto com a criação de dashboard
+e comentar mais sobre as análises feitas em cima do painel das vendas 
 
 ## Tratamento
 - Junção das colunas nome e sobrenome, criando uma coluna com o Nome Completo.
@@ -21,8 +21,6 @@ para a criação do dashboard, e realizar algumas análises.
 - Quantidade vendida por gênero.
 - Faturamento por estado.
 
-### Feito no Power BI o tratamento e a criação do dashboard.
-
 ## Conclusão
 
 De acordo com os dados da base disponibilizada chegamos a conclusão que:
@@ -35,3 +33,7 @@ De acordo com os dados da base disponibilizada chegamos a conclusão que:
 - Quantidade vendida por gênero notamos que o gênero com mais quantidade vendida são os masculinos com 17 mil compras.
 
 Podemos ter uma visualização dessas analises através do Painel de Vendas.
+
+## Ferramenta 
+
+- Power BI 
