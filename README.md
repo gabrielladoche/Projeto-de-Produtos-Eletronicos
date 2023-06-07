@@ -34,6 +34,10 @@ De acordo com os dados da base disponibilizada chegamos a conclusão que:
 
 Podemos ter uma visualização dessas analises através do Painel de Vendas.
 
+## Base de dados 
+Disponibilizada atráves da: https://www.hashtagtreinamentos.com/?origemurl=75502579145&gad=1&gclid=CjwKCAjw1YCkBhAOEiwA5aN4AcOXkhMkvQsgNeHuXzPWUGWDyR62rnIZ5-6MrB8GzUd8uiBC2sb85RoC1egQAvD_BwE
+
+
 ## Ferramenta 
 
 - Power BI 
