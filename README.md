@@ -6,7 +6,7 @@ Vimos a base de dados completa e percebemos que seria melhor realizar um tratame
 para a criação do dashboard, e realizar algumas análises.
 
 ## Tratamento
-- Junção das colunas nome e sobrenome e criando uma coluna com o Nome Completo.
+- Junção das colunas nome e sobrenome, criando uma coluna com o Nome Completo.
 - Junção das colunas quantidade vendida e preço unitário para a criação de uma nova coluna chamada Faturamento. 
 - Atualização da coluna Gênero ( M para Masculino e F para Feminino ).
 - Separação das informações de cidade e estado.
