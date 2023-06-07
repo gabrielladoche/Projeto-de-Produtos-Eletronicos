@@ -25,3 +25,5 @@ De acordo com os dados da base disponibilizada chegamos a conclusão que:
 - Faturamento por produto o IPhone tem um faturamento maior que o dos outros produtos.
 - Faturamento por meses conseguimos ver que os meses com mais faturamento são os de Janeiro e Dezembro, já os de menor faturamento são os de Agosto e Março.
 - Quantidade vendida por gênero notamos que o gênero com mais quantidade vendida são os masculinos com 17 mil compras.
+
+Podemos ter uma visualição dessas analises através do Painel de Vendas.
