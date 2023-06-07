@@ -1,4 +1,4 @@
-# Projeto-de-Power-Business-Intelligence
+# Projeto Produtos Eletrônicos
 
 ## Sobre o Projeto
 
@@ -21,7 +21,9 @@ para a criação do dashboard, e realizar algumas análises.
 - Quantidade vendida por gênero.
 - Faturamento por estado.
 
-## Análise
+### Feito no Power BI o tratamento e a criação do dashboard.
+
+## Conclusão
 
 De acordo com os dados da base disponibilizada chegamos a conclusão que:
 
@@ -32,4 +34,4 @@ De acordo com os dados da base disponibilizada chegamos a conclusão que:
 - Faturamento por meses conseguimos ver que os meses com mais faturamento são os de Janeiro e Dezembro, já os meses de menor faturamento são os de Agosto e Março.
 - Quantidade vendida por gênero notamos que o gênero com mais quantidade vendida são os masculinos com 17 mil compras.
 
-Podemos ter uma visualição dessas analises através do Painel de Vendas.
+Podemos ter uma visualização dessas analises através do Painel de Vendas.
